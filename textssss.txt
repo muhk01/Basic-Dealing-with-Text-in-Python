@@ -1,0 +1,3 @@
+1st Line in A+Added lines, because using append argument
+Added Newline1st Line in A+1st Line in A+Added lines, because using append argument
+Added Newline
